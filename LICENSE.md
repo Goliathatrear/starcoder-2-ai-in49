@@ -1,4 +1,4 @@
-# 
+# Código abierto StarCoder 2 herramientas. Con sistema de complementos y entrenamiento de modelos personalizados — optimizado para el máximo rendimiento y eficiencia.
 
 
 
